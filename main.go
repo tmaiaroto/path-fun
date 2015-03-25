@@ -51,8 +51,6 @@ func main() {
 		return
 	}
 
-	log.Println(len(l.maps))
-
 	// If there was a second argument, we're going to assume it was the output file, write there.
 	if len(args) > 1 {
 		// We could output ANSI colors to a text file too of course, but we won't so the tests will pass.
