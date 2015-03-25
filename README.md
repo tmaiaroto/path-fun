@@ -19,4 +19,3 @@ To test against the challenge, run:
 To output to stdout in colors, run:    
 ```pather longer-solve.txt```
 
-![example](solved.png)
