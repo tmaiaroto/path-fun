@@ -13,5 +13,4 @@ So either copy and rename it so it sits next to ```path-problem.sh``` or build a
 
 Or just use the included ```pather``` binary included in the repo if you're on OS X.
 
-To test against the challenge, run:    
-```path-problem.sh```
+To test against the challenge, run ```path-problem.sh```
