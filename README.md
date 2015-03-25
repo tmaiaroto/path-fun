@@ -19,4 +19,4 @@ To test against the challenge:
 To output to stdout in colors:    
 ```./pather longer-solve.txt```
 
-![example](solved.png)
+![example][solved.png]
