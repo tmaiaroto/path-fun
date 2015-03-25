@@ -15,5 +15,3 @@ Or just use the included ```pather``` binary included in the repo if you're on O
 
 To test against the challenge, run:    
 ```path-problem.sh```
-
-
