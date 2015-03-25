@@ -14,3 +14,9 @@ So either copy and rename it so it sits next to ```path-problem.sh``` or build a
 Or just use the included ```pather``` binary included in the repo if you're on OS X.
 
 To test against the challenge, run ```path-problem.sh```
+
+To output to file run with an output argument ```pather longer-solve.txt out.txt```
+
+To output to stdout in colors, run without an output argument ```pather longer-solve.txt```
+
+![example solve](solved.png)
