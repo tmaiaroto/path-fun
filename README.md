@@ -17,5 +17,7 @@ To test against the challenge, run:
 ```path-problem.sh```
 
 To output to stdout in colors, run:    
-```pather longer-solve.txt```
+```
+pather longer-solve.txt
+```
 
